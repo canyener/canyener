@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @canyener
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning microservices architecture, NodeJS and .NET.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me canyener1337@gmail.com
 
 <!---
