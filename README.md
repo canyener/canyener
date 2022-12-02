@@ -6,6 +6,8 @@
 ### :fire: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+![Can Yener's GitHub stats](https://github-readme-stats.vercel.app/api?username=canyener&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canyener&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 canyener/canyener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
