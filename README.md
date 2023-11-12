@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canyener
-- 👀 I’m interested in web development and software architecture lately. Teach me senpai!
+- 👀 I’m interested in web development and software architecture lately.
 - 🌱 I’m currently learning microservices architecture, working with NodeJS and .NET.
 - 📫 How to reach me canyener1337@gmail.com
 
