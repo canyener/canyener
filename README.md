@@ -4,7 +4,6 @@
 - 📫 How to reach me canyener1337@gmail.com
 
 ### :fire: Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=canyener)](https://git.io/streak-stats)
 
 ![Can Yener's GitHub stats](https://github-readme-stats.vercel.app/api?username=canyener&show_icons=true&theme=radical)
 
