@@ -5,7 +5,7 @@
 
 ### :fire: Stats :
 
-![Can Yener's GitHub stats](https://github-readme-stats.vercel.app/api?username=canyener&show_icons=true&theme=radical)
+<!--![Can Yener's GitHub stats](https://github-readme-stats.vercel.app/api?username=canyener&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canyener&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
